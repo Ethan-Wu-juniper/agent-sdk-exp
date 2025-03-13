@@ -1,0 +1,13 @@
+# Operating System generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python artifacts
+__pycache__/
+.mypy_cache/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
