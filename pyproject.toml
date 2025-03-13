@@ -1,5 +1,5 @@
 [project]
-name = "openai-agent-sdk"
+name = "agent-sdk-exp"
 version = "0.1.0"
 description = ""
 authors = [
