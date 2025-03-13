@@ -11,3 +11,6 @@ __pycache__/
 .venv/
 *.egg-info/
 dist/
+
+test.py
+.env
